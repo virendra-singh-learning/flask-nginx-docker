@@ -1,5 +1,9 @@
 Project: Deploy a Flask Web App with Nginx using Docker
+
+
 Project Description
+
+
 This project demonstrates how to containerize a Flask web application and deploy it using Docker and Docker Compose. The goal is to create a scalable, production-ready environment where Flask serves as the backend, Gunicorn acts as the WSGI server, and Nginx functions as a reverse proxy to handle requests efficiently.
 
 By the end of this project, you will have a fully functional web application running in Docker containers, accessible via http://localhost (or a cloud server). This is an essential skill for DevOps engineers, as containerization is widely used in modern software deployment.
